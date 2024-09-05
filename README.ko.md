@@ -1,4 +1,4 @@
-# ReadProcessMemory 데모
+# ReadProcessMemory Demo
 
 이 저장소에는 Windows에서 `ReadProcessMemory` 함수를 사용하여 프로세스 메모리를 읽는 연습 코드가 포함되어 있습니다. 두 개의 간단한 프로그램이 포함되어 있습니다:
 
